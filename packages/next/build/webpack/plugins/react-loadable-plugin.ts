@@ -131,7 +131,9 @@ function buildManifest(
             .chunks as webpack.compilation.Chunk[]) {
             chunk.files.forEach((file: string) => {
               if (
-                (file.endsWith('.js') || file.endsWith('.css')) &&
+                (file.endsWith('.js') ||
+                  file.endsWith('.mjs') ||
+                  file.endsWith('.css')) &&
                 file.match(/^static\/(chunks|css)\//)
               ) {
                 files.add(file)

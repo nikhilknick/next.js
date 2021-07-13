@@ -514,7 +514,8 @@ export async function getJsPageSizeInKb(
     computedManifestData ||
     (await computeFromManifest(buildManifest, distPath, gzipSize))
 
-  const fnFilterJs = (entry: string) => entry.endsWith('.js')
+  const fnFilterJs = (entry: string) =>
+    entry.endsWith('.js') || entry.endsWith('.mjs')
 
   const pageFiles = (
     buildManifest.pages[denormalizePagePath(page)] || []
