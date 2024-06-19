@@ -1,0 +1,4396 @@
+repo_name: nikhilknick/next.js
+report_id: 0cbbc386fb70eba5356fb6f146f90f51
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-19T09:04:00+00:00'
+requested_by: styfle
+provider: github
+branch: canary
+detected_tools_count: 353
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/nikhilknick/next.js
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/nikhilknick/next.js
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-apollo-neo4j-graphql/package.json
+  detection_source: examples/with-apollo-neo4j-graphql/package.json
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-nhost-auth-realtime-graphql/setup/data.sql
+  detection_source: examples/with-nhost-auth-realtime-graphql/setup/data.sql
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/.github/actions/next-stats-action/package.json
+  detection_source: ".github/actions/next-stats-action/package.json"
+- name: Actionhero
+  description: The Reusable, Scalable, and Quick node.js API Server
+  website_url: http://www.actionherojs.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/3109/default_eb1ee2b4a045043e6353cb945ec0276fa98944cc.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/custom-server-actionhero/package.json
+  detection_source: examples/custom-server-actionhero/package.json
+- name: Ant Design
+  description: A set of high-quality React components
+  website_url: https://ant.design
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6112/12101536.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-ant-design/package.json
+  detection_source: examples/with-ant-design/package.json
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/blog-starter-typescript/package.json
+  detection_source: examples/blog-starter-typescript/package.json
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-bootstrap/package.json
+  detection_source: examples/with-react-bootstrap/package.json
+- name: DraftJS
+  description: A framework for building rich text editors
+  website_url: https://draftjs.org
+  version: 0.11.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5388/9xvwNLlR_400x400.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-draft-js/package.json
+  detection_source: examples/with-draft-js/package.json
+- name: Electron
+  description: Build cross platform desktop apps with JavaScript, HTML, and CSS
+  website_url: http://electron.atom.io/
+  version: 12.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-electron/package.json
+  detection_source: examples/with-electron-typescript/package.json
+- name: Expo
+  description: Build one project that runs natively on all your users' devices
+  website_url: https://expo.dev/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-expo-typescript/package.json
+  detection_source: examples/with-expo-typescript/package.json
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/custom-server-express/package.json
+- name: Fastify
+  description: Fast and low overhead web framework, for Node.js
+  website_url: http://www.fastify.io/
+  version: 2.12.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/7609/24939410.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/custom-server-fastify/package.json
+  detection_source: examples/custom-server-fastify/package.json
+- name: Kea
+  description: The power of Redux with the simplicity of MobX
+  website_url: https://kea.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/7402/30091805.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-kea/package.json
+  detection_source: examples/with-kea/package.json
+- name: Koa
+  description: Next generation web framework for node.js
+  website_url: http://koajs.com/
+  version: 2.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1726/5055057.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/custom-server-koa/package.json
+  detection_source: examples/custom-server-koa/package.json
+- name: Material-UI
+  description: Material UI is a library of React UI components that implements Google's
+    Material Design.
+  website_url: https://github.com/mui/material-ui
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-multi-carousel/package.json
+  detection_source: examples/with-react-multi-carousel/package.json
+- name: MobX
+  description: Simple, scalable state management
+  website_url: https://github.com/mobxjs/mobx
+  version: 6.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5302/17475736.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-mobx-react-lite/package.json
+  detection_source: examples/with-mobx-react-lite/package.json
+- name: MobX-State-Tree
+  description: Full-featured reactive state management without the boilerplate
+  website_url: https://mobx-state-tree.js.org/intro/welcome
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/9129/default_c85dc717f6faf8f246f92d33fca5399a349b294f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-mobx-state-tree-typescript/package.json
+  detection_source: examples/with-mobx-state-tree-typescript/package.json
+- name: Next.js
+  description: A small framework for server-rendered universal JavaScript apps
+  website_url: https://nextjs.org/
+  version: 10.0.3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/api-routes-rate-limit/package.json
+  detection_source: examples/active-class-name/package.json
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/.github/actions/next-stats-action/Dockerfile
+  detection_source: ".github/actions/next-stats-action/Dockerfile"
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/blog-starter-typescript/package.json
+  detection_source: examples/blog-starter-typescript/package.json
+- name: Preact
+  description: Fast 3kb alternative to React with the same ES6 API
+  website_url: http://developit.github.io/preact/
+  version: 10.5.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/4388/preact.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/using-preact/package.json
+  detection_source: examples/using-preact/package.json
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/active-class-name/package.json
+- name: React Native
+  description: A framework for building native apps with React
+  website_url: http://facebook.github.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-expo-typescript/package.json
+  detection_source: examples/with-expo-typescript/package.json
+- name: Rebass
+  description: Functional React UI component library built with styled-components
+  website_url: https://github.com/jxnblk/rebass
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-rebass/package.json
+  detection_source: examples/with-rebass/package.json
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.0.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-apollo-and-redux/package.json
+  detection_source: examples/with-apollo-and-redux/package.json
+- name: Redux Observable
+  description: A powerful middleware for Redux using RxJS
+  website_url: https://redux-observable.js.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-redux-observable/package.json
+  detection_source: examples/with-redux-observable/package.json
+- name: Relay Framework
+  description: A JavaScript Framework for Building Data-Driven React Applications,
+    by Facebook
+  website_url: https://facebook.github.io/relay/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/4155/Screen_Shot_2015_12_21_at_3_02_58_PM.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-reason-relay/package.json
+  detection_source: examples/with-reason-relay/package.json
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 5.5.12
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/cms-kontent/package.json
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-carbon-components/package.json
+  detection_source: examples/with-carbon-components/package.json
+- name: Semantic UI
+  description: A UI Component library implemented using a set of specifications designed
+    around natural language
+  website_url: http://semantic-ui.com/
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1106/semantic-ui.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-semantic-ui/package.json
+  detection_source: examples/with-semantic-ui/package.json
+- name: Storybook
+  description: Build bulletproof UI components faster
+  website_url: https://storybook.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-storybook-styled-jsx-scss/package.json
+  detection_source: examples/with-storybook-styled-jsx-scss/package.json
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/blog-starter-typescript/package.json
+  detection_source: examples/blog-starter-typescript/package.json
+- name: XState
+  description: State machines and statecharts for the modern web
+  website_url: https://xstate.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/12312/default_b7db756c27572b5302a654fe5a96f617084c7d8a.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-xstate/package.json
+  detection_source: examples/with-xstate/package.json
+- name: Zustand
+  description: Bear necessities for state management in React
+  website_url: https://github.com/react-spring/zustand
+  version: 3.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Monitoring for Analytics
+  image_url: https://img.stackshare.io/service/11559/zustand.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-zustand/package.json
+  detection_source: examples/with-zustand/package.json
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-algolia-react-instantsearch/package.json
+  detection_source: examples/with-algolia-react-instantsearch/package.json
+- name: goober
+  description: A less than 1KB css-in-js solution
+  website_url: https://goober.rocks/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/25309/default_76739b06a3432acdb0eafa4245aab152cf7049aa.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-goober/package.json
+  detection_source: examples/with-goober/package.json
+- name: react-md
+  description: Google's Material Design UI components built with accessibility in
+    mind and React
+  website_url: https://react-md.mlaursen.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6757/react-md.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-md-typescript/package.json
+  detection_source: examples/with-react-md-typescript/package.json
+- name: reactstrap
+  description: Easy to use React Bootstrap 4 components compatible with React
+  website_url: https://reactstrap.github.io
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8935/0Xm63ShM_400x400__1_.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-reactstrap/package.json
+  detection_source: examples/with-reactstrap/package.json
+- name: redux-saga
+  description: An alternative side effect model for Redux apps
+  website_url: https://redux-saga.github.io
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-redux-saga/package.json
+  detection_source: examples/with-redux-saga/package.json
+- name: redux-thunk
+  description: Thunk middleware for Redux
+  website_url: https://github.com/gaearon/redux-thunk
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5448/13142323.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-redux-code-splitting/package.json
+  detection_source: examples/with-redux-code-splitting/package.json
+- name: reselect
+  description: Selector library for Redux
+  website_url: https://github.com/reactjs/reselect
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/7757/13142323.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-kea/package.json
+  detection_source: examples/with-kea/package.json
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-atlaskit/package.json
+- name: unistore
+  description: 650b state container with component reactions for React
+  website_url: https://www.npmjs.com/package/unistore
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/8115/68747470733a2f2f692e696d6775722e636f6d2f6f30753664746f2e706e67.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/package.json
+  detection_source: packages/next/package.json
+- name: Fauna
+  description: A flexible, developer-friendly, transactional database delivered as
+    a secure and scalable cloud API with native GraphQL.
+  website_url: https://fauna.com/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/11751/default_a137a9130f34fb52959416e21fdee5469f6d6be7.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-cookie-auth-fauna/package.json
+  detection_source: examples/with-cookie-auth-fauna/package.json
+- name: Firebase
+  description: The Realtime App Platform
+  website_url: https://firebase.google.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-firebase-cloud-messaging/package.json
+  detection_source: examples/with-firebase-cloud-messaging/package.json
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/api-routes-apollo-server-and-client-auth/package.json
+  detection_source: examples/api-routes-apollo-server-and-client-auth/package.json
+- name: MQTT
+  description: A machine-to-machine Internet of Things connectivity protocol
+  website_url: http://mqtt.org/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/3670/mqtticon-large_400x400.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-mqtt-js/package.json
+  detection_source: examples/with-mqtt-js/package.json
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  version: 3.5.9
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-mongodb/package.json
+  detection_source: examples/with-mongodb/package.json
+- name: Mongoose
+  description: MongoDB object modeling designed to work in an asynchronous environment
+  website_url: http://mongoosejs.com/
+  version: 5.9.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Document Mapper (ODM)
+  image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-mongodb-mongoose/package.json
+  detection_source: examples/with-mongodb-mongoose/package.json
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-knex/package.json
+  detection_source: examples/with-knex/package.json
+- name: Redux Persist
+  description: A library to persist and rehydrate a redux store
+  website_url: https://github.com/rt2zz/redux-persist
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6740/no-img-open-source.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-redux-persist/package.json
+  detection_source: examples/with-redux-persist/package.json
+- name: SQLite
+  description: A software library that implements a self-contained, serverless, zero-configuration,
+    transactional SQL database engine
+  website_url: http://www.sqlite.org/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/package.json
+  detection_source: package.json
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/custom-server-actionhero/package.json
+  detection_source: examples/custom-server-actionhero/package.json
+- name: AWS Amplify
+  description: JavaScript Open Source Library with React, React Native Extensions
+  website_url: https://github.com/aws/aws-amplify
+  version: 3.3.27
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: AWS Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-aws-amplify-typescript/package.json
+  detection_source: examples/with-aws-amplify-typescript/package.json
+- name: Azure Pipelines
+  description: Continuously build, test, and deploy to any platform and cloud
+  website_url: https://azure.microsoft.com/ko-kr/services/devops/pipelines/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/azure-pipelines.yml
+  detection_source: azure-pipelines.yml
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.12.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/custom-server-typescript/.babelrc
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/package.json
+  detection_source: packages/next/package.json
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/package.json
+  detection_source: package.json
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/.github/actions/next-stats-action/Dockerfile
+  detection_source: ".github/actions/next-stats-action/Dockerfile"
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-mysql/package.json
+  detection_source: examples/with-mysql/package.json
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-eslint/.eslintrc
+  detection_source: examples/with-eslint/.eslintrc
+- name: Enzyme
+  description: JavaScript Testing utilities for React, by Airbnb
+  website_url: https://enzymejs.github.io/enzyme/
+  version: 3.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/4488/default_87e6ca3fa146a959af95ccf3df1ec550eb434129.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-mocha/package.json
+  detection_source: examples/with-mocha/package.json
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nikhilknick/next.js
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/.github/workflows/build_test_deploy.yml
+  detection_source: ".github/workflows/build_test_deploy.yml"
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 27.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/blog-starter-typescript/package.json
+- name: Micro
+  description: A framework for cloud native development
+  website_url: https://github.com/micro/micro
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  image_url: https://img.stackshare.io/service/4793/Powered_by_Micro__3_.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-stripe-typescript/package.json
+  detection_source: examples/with-stripe-typescript/package.json
+- name: Microbundle
+  description: Zero-configuration bundler for tiny modules
+  website_url: https://www.npmjs.com/package/microbundle
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/8111/oo715.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next-polyfill-module/package.json
+  detection_source: packages/next-polyfill-module/package.json
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-mocha/package.json
+  detection_source: examples/with-mocha/package.json
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/.github/actions/next-stats-action/package.json
+  detection_source: ".github/actions/next-stats-action/package.json"
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: ".github/actions/next-stats-action/package.json"
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-apollo-neo4j-graphql/package.json
+  detection_source: examples/with-apollo-neo4j-graphql/package.json
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.44.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-ionic-typescript/package.json
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/bundles/yarn.lock
+  detection_source: packages/next/bundles/yarn.lock
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 2.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/custom-server-typescript/package.json
+  detection_source: examples/custom-server-typescript/package.json
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/package.json
+  detection_source: package.json
+- name: pnpm
+  description: Fast, disk space efficient package manager
+  website_url: https://pnpm.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/10903/JLVo_YPe_400x400.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/package.json
+  detection_source: package.json
+- name: pre-commit
+  description: A slightly improved pre-commit hook for git
+  website_url: http://jish.github.io/pre-commit/
+  version: 1.2.2
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: Algolia
+  description: Developer-friendly API and complete set of tools for building search
+  website_url: https://www.algolia.com/?utm_source=stackshare&utm_medium=referral
+  version: 4.3.0
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/589/default_452afb716f8f4b904f267638e5c6b9172f9fa06d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-algolia-react-instantsearch/package.json
+  detection_source: examples/with-algolia-react-instantsearch/package.json
+- name: Buffer
+  description: The easiest way to schedule tweets, Facebook posts and more
+  website_url: https://bufferapp.com/
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: Social Media Tools
+  image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/package.json
+  detection_source: packages/next/package.json
+- name: Ora
+  description: Agile task management and visual team collaboration, Ora is your team’s
+    command center with kanban, chat and timers!
+  website_url: https://ora.pm/
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Project Management
+  image_url: https://img.stackshare.io/service/6925/preview.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/package.json
+  detection_source: packages/next/package.json
+- name: Stripe
+  description: Payments for developers
+  website_url: https://stripe.com
+  open_source: false
+  hosted_saas: true
+  category: Payments
+  sub_category: Payment Services
+  image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-stripe-typescript/package.json
+  detection_source: examples/with-stripe-typescript/package.json
+- name: Vercel
+  description: It makes serverless application deployment easy
+  website_url: https://vercel.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Static Web Hosting
+  image_url: https://img.stackshare.io/service/7618/bHjpwZem_400x400.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-cookie-auth-fauna/vercel.json
+  detection_source: examples/with-cookie-auth-fauna/vercel.json
+- name: Aphrodite
+  website_url: https://github.com/Khan/aphrodite
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6227/15455.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-aphrodite/package.json
+  detection_source: examples/with-aphrodite/package.json
+- name: Cerebral
+  description: Open Source enthusiast. Creator of WebpackBin, author of Cerebral.
+  website_url: www.christianalfoni.com/cerebral/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3812/o6y6UeXE_normal.jpeg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-cerebral/package.json
+  detection_source: examples/with-cerebral/package.json
+- name: Fela
+  description: A toolbelt to handle state-driven styling in JavaScript
+  website_url: http://fela.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/9498/fela.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-fela/package.json
+  detection_source: examples/with-fela/package.json
+- name: Grommet
+  description: 'The most advanced open source #UX framework for enterprise applications.'
+  website_url: http://grommet.io/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7914/shsrNWMg_normal.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-grommet/package.json
+  detection_source: examples/with-grommet/package.json
+- name: Ionicons
+  description: Beautifully crafted open source icons
+  website_url: http://ionicons.com/
+  version: 5.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: UI Components
+  image_url: https://img.stackshare.io/service/5368/icon.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-ionic-typescript/package.json
+  detection_source: examples/with-ionic-typescript/package.json
+- name: Lerna
+  description: A tool for managing JavaScript projects
+  website_url: https://lerna.js.org/
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: Linaria
+  description: Zero-runtime CSS in JS library
+  website_url: https://linaria.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/11027/linaria.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-linaria/package.json
+  detection_source: examples/with-linaria/package.json
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.20
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-apollo-and-redux/package.json
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: Passport
+  description: Simple, unobtrusive authentication for Node.js
+  website_url: http://passportjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-passport-and-next-connect/package.json
+  detection_source: examples/with-passport-and-next-connect/package.json
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/nikhilknick/next.js
+  detection_source: Repo Metadata
+- name: Slate
+  description: Beautiful static documentation for your API, inspired by Stripe's and
+    Paypal's API docs
+  website_url: https://github.com/tripit/slate
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Documentation as a Service & Tools
+  image_url: https://img.stackshare.io/service/4189/preview.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-slate/package.json
+  detection_source: examples/with-slate/package.json
+- name: browserslist
+  website_url: https://github.com/ai/browserslist
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6650/19343.jpeg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/package.json
+  detection_source: package.json
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/create-next-app/package.json
+  detection_source: packages/create-next-app/package.json
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/blog-starter-typescript/package.json
+  detection_source: examples/blog-starter-typescript/package.json
+- name: flow-bin
+  website_url: github.com/flowtype/flow-bin
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8085/15352388.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-flow/package.json
+  detection_source: examples/with-flow/package.json
+- name: hls.js
+  website_url: https://github.com/video-dev/hls.js/tree/master
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7677/no-img-open-source.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-hls-js/package.json
+  detection_source: examples/with-hls-js/package.json
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-typescript-eslint-jest/package.json
+  detection_source: examples/with-typescript-eslint-jest/package.json
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-typescript-eslint-jest/package.json
+  detection_source: examples/with-typescript-eslint-jest/package.json
+- name: three.js
+  description: A JavaScript 3D library
+  website_url: https://threejs.org/
+  version: 0.128.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Game Development
+  image_url: https://img.stackshare.io/service/5883/preview.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-three-js/package.json
+  detection_source: examples/with-three-js/package.json
+- name: "@babel/traverse"
+  description: The Babel Traverse module maintains the overall tree state
+  package_url: https://www.npmjs.com/@babel/traverse
+  version: 7.12.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17114/default_5b9eca95ab3651165eb280ed5e0bc9a9382ad24d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+  vulnerabilities:
+  - name: Babel vulnerable to arbitrary code execution when compiling specifically
+      crafted malicious code
+    cve_id: CVE-2023-45133
+    cve_url: https://github.com/advisories/GHSA-67hx-6x53-jw92
+    detected_date: Oct 17
+    severity: critical
+    first_patched: 7.23.2
+- name: loader-utils
+  description: Utils for webpack loaders
+  package_url: https://www.npmjs.com/loader-utils
+  version: 1.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16191/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+  vulnerabilities:
+  - name: Prototype pollution in webpack loader-utils
+    cve_id: CVE-2022-37601
+    cve_url: https://github.com/advisories/GHSA-76p3-8jx3-jpfq
+    detected_date: Nov 5
+    severity: critical
+    first_patched: 1.4.1
+  - name: loader-utils is vulnerable to Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2022-37599
+    cve_url: https://github.com/advisories/GHSA-hhq3-ff78-jv3g
+    detected_date: Nov 16
+    severity: high
+    first_patched: 1.4.2
+  - name: loader-utils is vulnerable to Regular Expression Denial of Service (ReDoS)
+      via url variable
+    cve_id: CVE-2022-37603
+    cve_url: https://github.com/advisories/GHSA-3rfm-jhwj-7488
+    detected_date: Nov 16
+    severity: high
+    first_patched: 1.4.2
+- name: shell-quote
+  description: Quote and parse shell commands
+  package_url: https://www.npmjs.com/shell-quote
+  version: 1.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17489/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: Improper Neutralization of Special Elements used in a Command in Shell-quote
+    cve_id: CVE-2021-42740
+    cve_url: https://github.com/advisories/GHSA-g4rg-993r-mgx7
+    detected_date: Jun 22
+    severity: critical
+    first_patched: 1.7.3
+- name: "@hapi/hapi"
+  description: HTTP Server framework
+  package_url: https://www.npmjs.com/@hapi/hapi
+  version: 18.3.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18181/default_9472f2a1c56256064874685c48697eac8a870621.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/custom-server-hapi/package.json
+  detection_source: examples/custom-server-hapi/package.json
+  vulnerabilities:
+  - name: Denial of Service in @hapi/hapi
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-23vw-mhv5-grv5
+    detected_date: Aug 22
+    severity: high
+    first_patched: 18.4.1
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/custom-server-express/package.json
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+  - name: Express.js Open Redirect in malformed URLs
+    cve_id: CVE-2024-29041
+    cve_url: https://github.com/advisories/GHSA-rv95-896h-c2vc
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 4.19.2
+- name: gsap
+  description: GSAP is a JavaScript library for building high-performance animations
+    that work in **every** major browser
+  package_url: https://www.npmjs.com/gsap
+  version: 3.0.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17543/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-gsap/package.json
+  detection_source: examples/with-gsap/package.json
+  vulnerabilities:
+  - name: Prototype pollution in gsap
+    cve_id: CVE-2020-28478
+    cve_url: https://github.com/advisories/GHSA-6g8v-hpgw-h2v7
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.6.0
+- name: json5
+  description: JSON for humans
+  package_url: https://www.npmjs.com/json5
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16645/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+  vulnerabilities:
+  - name: Prototype Pollution in JSON5 via Parse Method
+    cve_id: CVE-2022-46175
+    cve_url: https://github.com/advisories/GHSA-9c47-m6qq-7p4h
+    detected_date: Dec 29
+    severity: high
+    first_patched: 2.2.2
+- name: jsonwebtoken
+  description: JSON Web Token implementation
+  package_url: https://www.npmjs.com/jsonwebtoken
+  version: 8.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+  vulnerabilities:
+  - name: jsonwebtoken has insecure input validation in jwt.verify function
+    cve_id: CVE-2022-23529
+    cve_url: https://github.com/advisories/GHSA-27h2-hvpr-p74q
+    detected_date: Dec 22
+    severity: high
+    first_patched: 9.0.0
+  - name: 'jsonwebtoken unrestricted key type could lead to legacy keys usage '
+    cve_id: CVE-2022-23539
+    cve_url: https://github.com/advisories/GHSA-8cf7-32gw-wr33
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+  - name: jsonwebtoken vulnerable to signature validation bypass due to insecure default
+      algorithm in jwt.verify()
+    cve_id: CVE-2022-23540
+    cve_url: https://github.com/advisories/GHSA-qwph-4952-7xr6
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+  - name: jsonwebtoken's insecure implementation of key retrieval function could lead
+      to Forgeable Public/Private Tokens from RSA to HMAC
+    cve_id: CVE-2022-23541
+    cve_url: https://github.com/advisories/GHSA-hjrf-2m68-5959
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+- name: knex
+  description: A batteries-included SQL query &amp; schema builder for Postgres
+  package_url: https://www.npmjs.com/knex
+  version: 0.21.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16491/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-knex/package.json
+  detection_source: examples/with-knex/package.json
+  vulnerabilities:
+  - name: Knex.js has a limited SQL injection vulnerability
+    cve_id: CVE-2016-20018
+    cve_url: https://github.com/advisories/GHSA-4jv9-3563-23j3
+    detected_date: Dec 21
+    severity: high
+    first_patched: 2.4.0
+- name: minimatch
+  description: A glob matcher in javascript
+  package_url: https://www.npmjs.com/minimatch
+  version: 3.0.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: ".github/actions/next-stats-action/package.json"
+  vulnerabilities:
+  - name: minimatch ReDoS vulnerability
+    cve_id: CVE-2022-3517
+    cve_url: https://github.com/advisories/GHSA-f8q6-p94x-37v3
+    detected_date: Oct 21
+    severity: high
+    first_patched: 3.0.5
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: 'Path Traversal: ''dir/../../filename'' in moment.locale'
+    cve_id: CVE-2022-24785
+    cve_url: https://github.com/advisories/GHSA-8hfj-j24r-96c4
+    detected_date: Apr 9
+    severity: high
+    first_patched: 2.29.2
+  - name: Moment.js vulnerable to Inefficient Regular Expression Complexity
+    cve_id: CVE-2022-31129
+    cve_url: https://github.com/advisories/GHSA-wc69-rhjr-hc9g
+    detected_date: Jul 7
+    severity: high
+    first_patched: 2.29.4
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: ".github/actions/next-stats-action/package.json"
+  vulnerabilities:
+  - name: node-fetch forwards secure headers to untrusted sites
+    cve_id: CVE-2022-0235
+    cve_url: https://github.com/advisories/GHSA-r683-j2x4-v87g
+    detected_date: Jan 22
+    severity: high
+    first_patched: 2.6.7
+  - name: The `size` option isn't honored after following a redirect in node-fetch
+    cve_id: CVE-2020-15168
+    cve_url: https://github.com/advisories/GHSA-w7rc-rwvf-8q5r
+    detected_date: Aug 22
+    severity: low
+    first_patched: 2.6.1
+- name: qs
+  description: A querystring parser that supports nesting and arrays
+  package_url: https://www.npmjs.com/qs
+  version: 6.7.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-algolia-react-instantsearch/package.json
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 6.7.3
+- name: sqlite3
+  description: Asynchronous, non-blocking SQLite3 bindings
+  package_url: https://www.npmjs.com/sqlite3
+  version: 5.0.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16285/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: sqlite vulnerable to code execution due to Object coercion
+    cve_id: CVE-2022-43441
+    cve_url: https://github.com/advisories/GHSA-jqv5-7xpx-qj74
+    detected_date: Mar 14
+    severity: high
+    first_patched: 5.1.5
+  - name: Denial-of-Service when binding invalid parameters in sqlite3
+    cve_id: CVE-2022-21227
+    cve_url: https://github.com/advisories/GHSA-9qrh-qjmc-5w2p
+    detected_date: Apr 29
+    severity: high
+    first_patched: 5.0.3
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  version: 4.4.10
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/create-next-app/package.json
+  vulnerabilities:
+  - name: Arbitrary File Creation/Overwrite due to insufficient absolute path sanitization
+    cve_id: CVE-2021-32804
+    cve_url: https://github.com/advisories/GHSA-3jfq-g458-7qm9
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.4.14
+  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
+      to directory cache poisoning
+    cve_id: CVE-2021-32803
+    cve_url: https://github.com/advisories/GHSA-r628-mhmh-qjhw
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.4.15
+  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
+      to directory cache poisoning using symbolic links
+    cve_id: CVE-2021-37712
+    cve_url: https://github.com/advisories/GHSA-qq89-hq3f-393p
+    detected_date: Sep 1
+    severity: high
+    first_patched: 4.4.18
+  - name: Arbitrary File Creation/Overwrite on Windows via insufficient relative path
+      sanitization
+    cve_id: CVE-2021-37713
+    cve_url: https://github.com/advisories/GHSA-5955-9wpr-37jh
+    detected_date: Sep 1
+    severity: high
+    first_patched: 4.4.18
+  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
+      to directory cache poisoning using symbolic links
+    cve_id: CVE-2021-37701
+    cve_url: https://github.com/advisories/GHSA-9r2w-394v-53qc
+    detected_date: Sep 1
+    severity: high
+    first_patched: 4.4.16
+  - name: Denial of service while parsing a tar file due to lack of folders count
+      validation
+    cve_id: CVE-2024-28863
+    cve_url: https://github.com/advisories/GHSA-f5x3-32g6-xq36
+    detected_date: Apr 10
+    severity: moderate
+    first_patched: 6.2.1
+- name: terser
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/terser
+  version: 5.7.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/bundles/yarn.lock
+  detection_source: packages/next/package.json
+  vulnerabilities:
+  - name: Terser insecure use of regular expressions leads to ReDoS
+    cve_id: CVE-2022-25858
+    cve_url: https://github.com/advisories/GHSA-4wf5-vphf-c2xc
+    detected_date: Jul 20
+    severity: high
+    first_patched: 5.14.2
+- name: three
+  description: JavaScript 3D library
+  package_url: https://www.npmjs.com/three
+  version: 0.128.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16653/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-three-js/package.json
+  detection_source: examples/with-three-js/package.json
+  vulnerabilities:
+  - name: Cross site scripting in three.js
+    cve_id: CVE-2022-0177
+    cve_url: https://github.com/advisories/GHSA-7vvq-7r29-5vg3
+    detected_date: Jan 28
+    severity: high
+    first_patched: 0.137.0
+- name: got
+  description: Human-friendly and powerful HTTP request library for Node.js
+  package_url: https://www.npmjs.com/got
+  version: 10.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16258/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/create-next-app/package.json
+  vulnerabilities:
+  - name: Got allows a redirect to a UNIX socket
+    cve_id: CVE-2022-33987
+    cve_url: https://github.com/advisories/GHSA-pfrx-2q88-qq97
+    detected_date: Jun 22
+    severity: moderate
+    first_patched: 11.8.5
+- name: nanoid
+  description: A tiny
+  package_url: https://www.npmjs.com/nanoid
+  version: 3.1.20
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/blog-with-comment/package.json
+  vulnerabilities:
+  - name: Exposure of Sensitive Information to an Unauthorized Actor in nanoid
+    cve_id: CVE-2021-23566
+    cve_url: https://github.com/advisories/GHSA-qrpm-p2h7-hrv2
+    detected_date: Jan 22
+    severity: moderate
+    first_patched: 3.1.31
+- name: node-notifier
+  description: A Node.js module for sending notifications on native Mac
+  package_url: https://www.npmjs.com/node-notifier
+  version: 5.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16146/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: OS Command Injection in node-notifier
+    cve_id: CVE-2020-7789
+    cve_url: https://github.com/advisories/GHSA-5fw9-fq32-wv5p
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 8.0.1
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.88.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-graphql-faunadb/package.json
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched:
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 5.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: ".github/actions/next-stats-action/package.json"
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
+- name: video.js
+  description: An HTML5 and Flash video player with a common API and skin for both
+  package_url: https://www.npmjs.com/video.js
+  version: 6.7.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17668/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-videojs/package.json
+  detection_source: examples/with-videojs/package.json
+  vulnerabilities:
+  - name: Cross-site Scripting in video.js
+    cve_id: CVE-2021-23414
+    cve_url: https://github.com/advisories/GHSA-pp7m-6j83-m7r6
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 7.14.3
+- name: "@apollo/client"
+  description: A fully-featured caching GraphQL client
+  package_url: https://www.npmjs.com/@apollo/client
+  version: 3.0.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/api-routes-apollo-server-and-client-auth/package.json
+  detection_source: examples/api-routes-apollo-server-and-client-auth/package.json
+- name: "@babel/code-frame"
+  description: Generate errors that contain a code frame that point to source locations
+  package_url: https://www.npmjs.com/@babel/code-frame
+  version: 7.12.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18114/image.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.12.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-expo-typescript/package.json
+- name: "@babel/generator"
+  description: Turns an AST into code
+  package_url: https://www.npmjs.com/@babel/generator
+  version: 7.12.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17361/default_e9c4b89784d4fe5d59f93b4a54dd8910ea23e5de.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@babel/plugin-proposal-class-properties"
+  description: This plugin transforms static class properties as well as properties
+    declared with the property initializer syntax
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-class-properties
+  version: 7.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15903/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-mobx-react-lite/package.json
+- name: "@babel/plugin-proposal-decorators"
+  description: Compile class and object decorators to ES5
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-decorators
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16147/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-kea/package.json
+  detection_source: examples/with-kea/package.json
+- name: "@babel/plugin-proposal-do-expressions"
+  description: Compile do expressions to ES5
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-do-expressions
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16627/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-custom-babel-config/package.json
+  detection_source: examples/with-custom-babel-config/package.json
+- name: "@babel/plugin-proposal-export-namespace-from"
+  description: Compile export namespace to ES2015
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-export-namespace-from
+  version: 7.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16312/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@babel/plugin-proposal-numeric-separator"
+  description: Remove numeric separators from Decimal
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-numeric-separator
+  version: 7.12.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16469/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@babel/plugin-proposal-object-rest-spread"
+  description: Compile object rest and spread to ES5
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-object-rest-spread
+  version: 7.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16001/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: "@babel/plugin-syntax-dynamic-import"
+  description: Allow parsing of import
+  package_url: https://www.npmjs.com/@babel/plugin-syntax-dynamic-import
+  version: 7.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16080/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@babel/plugin-syntax-jsx"
+  description: Allow parsing of jsx
+  package_url: https://www.npmjs.com/@babel/plugin-syntax-jsx
+  version: 7.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17129/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@babel/plugin-transform-modules-commonjs"
+  description: This plugin transforms ES2015 modules to CommonJS
+  package_url: https://www.npmjs.com/@babel/plugin-transform-modules-commonjs
+  version: 7.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16321/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@babel/plugin-transform-runtime"
+  description: Externalise references to helpers and builtins
+  package_url: https://www.npmjs.com/@babel/plugin-transform-runtime
+  version: 7.12.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15952/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.12.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@babel/preset-flow"
+  description: Babel preset for all Flow plugins
+  package_url: https://www.npmjs.com/@babel/preset-flow
+  version: 7.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16270/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.12.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: "@babel/preset-typescript"
+  description: Babel preset for TypeScript
+  package_url: https://www.npmjs.com/@babel/preset-typescript
+  version: 7.12.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@babel/register"
+  description: Babel require hook
+  package_url: https://www.npmjs.com/@babel/register
+  version: 7.10.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16014/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-mocha/package.json
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.12.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@babel/types"
+  description: Babel Types is a Lodash-esque utility library for AST nodes
+  package_url: https://www.npmjs.com/@babel/types
+  version: 7.12.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16786/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@emotion/styled"
+  description: Styled API for emotion
+  package_url: https://www.npmjs.com/@emotion/styled
+  version: 11.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16702/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-chakra-ui-typescript/package.json
+  detection_source: examples/with-chakra-ui-typescript/package.json
+- name: "@material-ui/core"
+  description: React components that implement Google's Material Design
+  package_url: https://www.npmjs.com/@material-ui/core
+  version: 3.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-multi-carousel/package.json
+  detection_source: examples/with-react-multi-carousel/package.json
+- name: "@material-ui/icons"
+  description: Material Design Svg Icons converted to Material-UI React components
+  package_url: https://www.npmjs.com/@material-ui/icons
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16471/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-multi-carousel/package.json
+  detection_source: examples/with-react-multi-carousel/package.json
+- name: "@mdx-js/react"
+  description: React implementation for MDX
+  package_url: https://www.npmjs.com/@mdx-js/react
+  version: 1.6.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17624/default_61a119a7701a0e8224ca0e4dce7ff951cd67972f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-mdx/package.json
+  detection_source: examples/with-mdx/package.json
+- name: "@stencil/core"
+  description: A Compiler for Web Components and Progressive Web Apps
+  package_url: https://www.npmjs.com/@stencil/core
+  version: 1.8.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16352/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-stencil/packages/test-component/package.json
+  detection_source: examples/with-stencil/packages/test-component/package.json
+- name: "@storybook/addon-actions"
+  description: Action Logger addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-actions
+  version: 6.1.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16126/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-storybook-styled-jsx-scss/package.json
+  detection_source: examples/with-storybook-styled-jsx-scss/package.json
+- name: "@storybook/addon-links"
+  description: Story Links addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-links
+  version: 6.1.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16204/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-storybook-styled-jsx-scss/package.json
+  detection_source: examples/with-storybook-styled-jsx-scss/package.json
+- name: "@storybook/react"
+  description: 'Storybook for React: Develop React Component in isolation with Hot
+    Reloading'
+  package_url: https://www.npmjs.com/@storybook/react
+  version: 6.1.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16042/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-storybook-styled-jsx-scss/package.json
+  detection_source: examples/with-storybook-styled-jsx-scss/package.json
+- name: "@svgr/webpack"
+  description: SVGR webpack loader
+  package_url: https://www.npmjs.com/@svgr/webpack
+  version: 5.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16411/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: "@tailwindcss/typography"
+  description: A Tailwind CSS plugin for automatically styling plain HTML content
+    with beautiful typographic defaults
+  package_url: https://www.npmjs.com/@tailwindcss/typography
+  version: 0.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/blog-with-comment/package.json
+  detection_source: examples/blog-with-comment/package.json
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-jest/package.json
+  detection_source: examples/with-jest/package.json
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 11.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-jest/package.json
+- name: "@types/babel__core"
+  description: TypeScript definitions for @babel/core
+  package_url: https://www.npmjs.com/@types/babel__core
+  version: 7.1.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18415/default_867ef7396016341fd213fa568d6de11cc98fefff.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@types/cheerio"
+  description: TypeScript definitions for Cheerio
+  package_url: https://www.npmjs.com/@types/cheerio
+  version: 0.22.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17279/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: "@types/compression"
+  description: TypeScript definitions for compression
+  package_url: https://www.npmjs.com/@types/compression
+  version: 0.0.36
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18206/default_dfaa3c3f19039c5391ee1a13529324eaa2685e7f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@types/cross-spawn"
+  description: TypeScript definitions for cross-spawn
+  package_url: https://www.npmjs.com/@types/cross-spawn
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18504/default_aabef48673d7b85e098f65ec3d0fa0b5983de6b5.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@types/debug"
+  description: TypeScript definitions for debug
+  package_url: https://www.npmjs.com/@types/debug
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16332/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@types/dotenv"
+  description: Stub TypeScript definitions entry for dotenv
+  package_url: https://www.npmjs.com/@types/dotenv
+  version: 8.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16809/default_9a5182350af29cb82b3344853e865051f508ac6c.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next-env/package.json
+- name: "@types/fs-extra"
+  description: TypeScript definitions for fs-extra
+  package_url: https://www.npmjs.com/@types/fs-extra
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16170/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 24.0.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/blog-starter-typescript/package.json
+- name: "@types/jsonwebtoken"
+  description: TypeScript definitions for jsonwebtoken
+  package_url: https://www.npmjs.com/@types/jsonwebtoken
+  version: 8.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16959/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 16.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/bundles/yarn.lock
+  detection_source: examples/blog-starter-typescript/package.json
+- name: "@types/node-fetch"
+  description: TypeScript definitions for node-fetch
+  package_url: https://www.npmjs.com/@types/node-fetch
+  version: 2.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16459/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 16.9.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/blog-starter-typescript/package.json
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 16.9.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/blog-starter-typescript/package.json
+- name: "@types/react-native"
+  description: TypeScript definitions for react-native
+  package_url: https://www.npmjs.com/@types/react-native
+  version: 0.62.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16569/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-expo-typescript/package.json
+  detection_source: examples/with-expo-typescript/package.json
+- name: "@types/react-redux"
+  description: TypeScript definitions for react-redux
+  package_url: https://www.npmjs.com/@types/react-redux
+  version: 7.1.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16687/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-redux-toolkit-typescript/package.json
+  detection_source: examples/with-redux-toolkit-typescript/package.json
+- name: "@types/react-test-renderer"
+  description: TypeScript definitions for react-test-renderer
+  package_url: https://www.npmjs.com/@types/react-test-renderer
+  version: 16.9.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16593/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-typescript-graphql/package.json
+  detection_source: examples/with-typescript-graphql/package.json
+- name: "@types/request"
+  description: TypeScript definitions for request
+  package_url: https://www.npmjs.com/@types/request
+  version: 2.48.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16354/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-unsplash/package.json
+  detection_source: examples/with-unsplash/package.json
+- name: "@types/rimraf"
+  description: TypeScript definitions for rimraf
+  package_url: https://www.npmjs.com/@types/rimraf
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16613/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/create-next-app/package.json
+- name: "@types/semver"
+  description: TypeScript definitions for semver
+  package_url: https://www.npmjs.com/@types/semver
+  version: 7.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16694/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@types/styled-components"
+  description: TypeScript definitions for styled-components
+  package_url: https://www.npmjs.com/@types/styled-components
+  version: 5.1.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16494/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-typescript-styled-components/package.json
+  detection_source: examples/with-typescript-styled-components/package.json
+- name: "@types/webpack"
+  description: TypeScript definitions for webpack
+  package_url: https://www.npmjs.com/@types/webpack
+  version: 5.28.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16215/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 4.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-typescript-eslint-jest/package.json
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 4.22.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-typescript-eslint-jest/package.json
+- name: accepts
+  description: Higher-level content negotiation
+  package_url: https://www.npmjs.com/accepts
+  version: 1.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17723/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-react-intl/package.json
+- name: algoliasearch
+  description: A fully-featured and blazing-fast JavaScript API client to interact
+    with Algolia API
+  package_url: https://www.npmjs.com/algoliasearch
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17074/default_5b9eca95ab3651165eb280ed5e0bc9a9382ad24d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-algolia-react-instantsearch/package.json
+  detection_source: examples/with-algolia-react-instantsearch/package.json
+- name: antd
+  description: An enterprise-class UI design language and React components implementation
+  package_url: https://www.npmjs.com/antd
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16201/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-ant-design/package.json
+  detection_source: examples/with-ant-design/package.json
+- name: aphrodite
+  description: Framework-agnostic CSS-in-JS with support for server-side rendering
+  package_url: https://www.npmjs.com/aphrodite
+  version: 2.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18353/default_66453dac5039f3ea2d494ebb900a31c627b16d29.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-aphrodite/package.json
+  detection_source: examples/with-aphrodite/package.json
+- name: arg
+  description: Another simple argument parser
+  package_url: https://www.npmjs.com/arg
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17564/default_99afdc7126f8a31ae778ef58d50c93ae3dd88880.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: assert
+  description: The assert module from Node.js, for the browser
+  package_url: https://www.npmjs.com/assert
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16188/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-flow/package.json
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 27.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-jest/package.json
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-storybook-styled-jsx-scss/package.json
+  detection_source: examples/with-storybook-styled-jsx-scss/package.json
+- name: babel-plugin-dynamic-import-node
+  description: Babel plugin to transpile import
+  package_url: https://www.npmjs.com/babel-plugin-dynamic-import-node
+  version: 2.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16308/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: babel-plugin-inline-react-svg
+  description: A babel plugin that optimizes and inlines SVGs for your react components
+  package_url: https://www.npmjs.com/babel-plugin-inline-react-svg
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18443/default_31e3dc8ee5066945286d4e7345d470ac3863ee5a.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/svg-components/package.json
+  detection_source: examples/svg-components/package.json
+- name: babel-plugin-macros
+  description: Allows you to build compile-time libraries
+  package_url: https://www.npmjs.com/babel-plugin-macros
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17191/default_fbe883dfc6d978f82179fa11bdf634af1b6751fa.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-babel-macros/package.json
+- name: babel-plugin-react-intl
+  description: Extracts string messages for translation from modules that use React
+    Intl
+  package_url: https://www.npmjs.com/babel-plugin-react-intl
+  version: 8.1.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17528/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-intl/package.json
+  detection_source: examples/with-react-intl/package.json
+- name: babel-plugin-styled-components
+  description: Improve the debugging experience and add server-side rendering support
+    to styled-components
+  package_url: https://www.npmjs.com/babel-plugin-styled-components
+  version: 1.10.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16651/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-atlaskit/package.json
+- name: babel-plugin-transform-flow-strip-types
+  description: Strip flow type annotations from your output code
+  package_url: https://www.npmjs.com/babel-plugin-transform-flow-strip-types
+  version: 6.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16172/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-flow/package.json
+  detection_source: examples/with-flow/package.json
+- name: babel-plugin-transform-object-assign
+  description: Replace Object.assign with an inline helper
+  package_url: https://www.npmjs.com/babel-plugin-transform-object-assign
+  version: 6.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16217/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-rebass/package.json
+  detection_source: examples/with-rebass/package.json
+- name: babel-plugin-transform-react-remove-prop-types
+  description: Remove unnecessary React propTypes from the production build
+  package_url: https://www.npmjs.com/babel-plugin-transform-react-remove-prop-types
+  version: 0.4.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16286/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: babel-preset-expo
+  description: The Babel preset for Expo projects
+  package_url: https://www.npmjs.com/babel-preset-expo
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18526/default_6d0416098b5583c02111044f891c8f1f8e30a97e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-expo-typescript/package.json
+  detection_source: examples/with-expo-typescript/package.json
+- name: bfj
+  description: Big-friendly JSON
+  package_url: https://www.npmjs.com/bfj
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16822/default_9a5182350af29cb82b3344853e865051f508ac6c.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: browserslist
+  description: Share target browsers between different front-end tools
+  package_url: https://www.npmjs.com/browserslist
+  version: 4.16.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17198/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/bundles/yarn.lock
+  detection_source: package.json
+- name: bs-platform
+  description: Bucklescript compiler
+  package_url: https://www.npmjs.com/bs-platform
+  version: 7.2.2
+  license: ICU
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16891/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-reason-relay/package.json
+  detection_source: examples/with-reason-relay/package.json
+- name: caniuse-lite
+  description: A smaller version of caniuse-db, with only the essentials!
+  package_url: https://www.npmjs.com/caniuse-lite
+  version: 1.0.30001228
+  license: CC-BY-4.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18015/default_1f8ed84269df051b7e91bcbcb5c88ac6f0d8720d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/bundles/yarn.lock
+  detection_source: packages/next/package.json
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/create-next-app/package.json
+- name: cheerio
+  description: Fast, flexible, and lean implementation of core jQuery
+  package_url: https://www.npmjs.com/cheerio
+  version: 0.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15949/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: chokidar
+  description: A neat wrapper around node.js fs.watch / fs.watchFile / fsevents
+  package_url: https://www.npmjs.com/chokidar
+  version: 3.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: classnames
+  description: A simple utility for conditionally joining classNames together
+  package_url: https://www.npmjs.com/classnames
+  version: 2.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/blog-starter-typescript/package.json
+- name: clone
+  description: Deep cloning of objects and arrays
+  package_url: https://www.npmjs.com/clone
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16398/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 2.20.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/bundles/yarn.lock
+  detection_source: packages/create-next-app/package.json
+- name: compression
+  description: Node.js compression middleware
+  package_url: https://www.npmjs.com/compression
+  version: 1.7.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16187/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-reasonml-todo/package.json
+  detection_source: examples/with-reasonml-todo/package.json
+- name: conf
+  description: Simple config handling for your app or module
+  package_url: https://www.npmjs.com/conf
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17998/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: content-type
+  description: Create and parse HTTP Content-Type header
+  package_url: https://www.npmjs.com/content-type
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17887/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: cookie
+  description: HTTP server cookie parsing and serialization
+  package_url: https://www.npmjs.com/cookie
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16660/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/api-routes-apollo-server-and-client-auth/package.json
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 6.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-ionic-typescript/package.json
+  detection_source: examples/with-ionic-typescript/package.json
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 3.6.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next-polyfill-nomodule/package.json
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/api-routes-cors/package.json
+- name: cpy
+  description: Copy files
+  package_url: https://www.npmjs.com/cpy
+  version: 7.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17731/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/create-next-app/package.json
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 6.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/analyze-bundles/package.json
+- name: cross-spawn
+  description: Cross platform child_process#spawn and child_process#spawnSync
+  package_url: https://www.npmjs.com/cross-spawn
+  version: 6.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16069/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-react-intl/package.json
+- name: crypto-browserify
+  description: Implementation of crypto for the browser
+  package_url: https://www.npmjs.com/crypto-browserify
+  version: 3.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18055/image.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: dayjs
+  description: 2KB immutable date time library alternative to Moment.js with the same
+    modern API
+  package_url: https://www.npmjs.com/dayjs
+  version: 1.8.28
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-ant-design/package.json
+  detection_source: examples/with-ant-design/package.json
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 2.6.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: deepmerge
+  description: A library for deep
+  package_url: https://www.npmjs.com/deepmerge
+  version: 4.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16179/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/api-routes-apollo-server-and-client-auth/package.json
+- name: dotenv-expand
+  description: Expand environment variables using dotenv
+  package_url: https://www.npmjs.com/dotenv-expand
+  version: 5.1.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16514/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next-env/package.json
+- name: draft-js
+  description: A React framework for building text editors
+  package_url: https://www.npmjs.com/draft-js
+  version: 0.11.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16886/default_39222bc61d2c4e84c2e001fe7b31e7c8bf5f4832.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-draft-js/package.json
+  detection_source: examples/with-draft-js/package.json
+- name: electron-builder
+  description: A complete solution to package and build a ready for distribution Electron
+    app for MacOS
+  package_url: https://www.npmjs.com/electron-builder
+  version: 22.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17567/default_cce6af1cc5c037d170650dfd256f479915d5a8e4.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-electron-typescript/package.json
+  detection_source: examples/with-electron-typescript/package.json
+- name: enzyme-adapter-react-16
+  description: JavaScript Testing utilities for React
+  package_url: https://www.npmjs.com/enzyme-adapter-react-16
+  version: 1.15.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15959/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-mocha/package.json
+  detection_source: examples/with-mocha/package.json
+- name: escape-string-regexp
+  description: Escape RegExp special characters
+  package_url: https://www.npmjs.com/escape-string-regexp
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16736/default_cc1793e454d6d035c188f0198b037d58f372e7f2.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: eslint-config-next
+  description: ESLint configuration used by Next.js
+  package_url: https://www.npmjs.com/eslint-config-next
+  version: 11.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-supertokens/package.json
+  detection_source: examples/with-eslint/package.json
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-typescript-eslint-jest/package.json
+  detection_source: examples/with-typescript-eslint-jest/package.json
+- name: eslint-import-resolver-node
+  description: Node default behavior import resolution plugin for eslint-plugin-import
+  package_url: https://www.npmjs.com/eslint-import-resolver-node
+  version: 0.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17714/default_8cfeb169319d5cc646c1e13f8a10e7d7e7430d7c.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/eslint-config-next/package.json
+- name: eslint-import-resolver-typescript
+  description: TypeScript .ts .tsx module resolver for `eslint-plugin-import`
+  package_url: https://www.npmjs.com/eslint-import-resolver-typescript
+  version: 2.4.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18380/default_d0ba753d47207ad8f04b02befcab81c50f38718f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/eslint-config-next/package.json
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: eslint-plugin-jest
+  description: Eslint rules for Jest
+  package_url: https://www.npmjs.com/eslint-plugin-jest
+  version: 24.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/eslint-config-next/package.json
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.23.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-typescript-eslint-jest/package.json
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: esm
+  description: Tomorrow's ECMAScript modules today!
+  package_url: https://www.npmjs.com/esm
+  version: 3.2.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16371/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-ant-design/package.json
+  detection_source: examples/with-ant-design/package.json
+- name: etag
+  description: Create simple HTTP ETags
+  package_url: https://www.npmjs.com/etag
+  version: 1.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17743/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: execa
+  description: Process execution for humans
+  package_url: https://www.npmjs.com/execa
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16132/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: expect.js
+  description: BDD style assertions for node and the browser
+  package_url: https://www.npmjs.com/expect.js
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16029/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-mocha/package.json
+  detection_source: examples/with-mocha/package.json
+- name: faker
+  description: Generate massive amounts of fake contextual data
+  package_url: https://www.npmjs.com/faker
+  version: 5.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16327/default_1baba0e6ece19a38adfb211f686c83c781ff703a.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/analyze-bundles/package.json
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-semantic-ui/package.json
+- name: find-cache-dir
+  description: Finds the common standard cache directory
+  package_url: https://www.npmjs.com/find-cache-dir
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17885/default_4b188d76bd950317acb7d53fc6b71007ec58af0d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: find-up
+  description: Find a file or directory by walking up parent directories
+  package_url: https://www.npmjs.com/find-up
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17030/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: firebase-admin
+  description: Firebase admin SDK for Node.js
+  package_url: https://www.npmjs.com/firebase-admin
+  version: 9.4.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17151/default_21a9522c66101ebad0e63609af74acb35fe29a0a.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-firebase-hosting/package.json
+  detection_source: examples/with-firebase-hosting/package.json
+- name: flow-bin
+  description: Binary wrapper for Flow - A static type checker for JavaScript
+  package_url: https://www.npmjs.com/flow-bin
+  version: 0.77.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15957/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-flow/package.json
+  detection_source: examples/with-flow/package.json
+- name: fresh
+  description: HTTP response freshness testing
+  package_url: https://www.npmjs.com/fresh
+  version: 0.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18037/default_d8756eea8d13a271fb42437ffb36c0a116d72925.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: ".github/actions/next-stats-action/package.json"
+- name: fuse.js
+  description: Lightweight fuzzy-search
+  package_url: https://www.npmjs.com/fuse.js
+  version: 6.4.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17405/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-dynamic-import/package.json
+  detection_source: examples/with-dynamic-import/package.json
+- name: get-port
+  description: Get an available port
+  package_url: https://www.npmjs.com/get-port
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16732/default_ee69dab268e6a52104564fd4259549f5b48a25d4.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: ".github/actions/next-stats-action/package.json"
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: ".github/actions/next-stats-action/package.json"
+- name: globby
+  description: User-friendly glob matching
+  package_url: https://www.npmjs.com/globby
+  version: 11.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16159/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-sitemap/package.json
+- name: graphql-tag
+  description: A JavaScript template literal tag that parses GraphQL queries
+  package_url: https://www.npmjs.com/graphql-tag
+  version: 2.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16631/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-typescript-graphql/package.json
+  detection_source: examples/with-typescript-graphql/package.json
+- name: gray-matter
+  description: Parse front-matter from a string or file
+  package_url: https://www.npmjs.com/gray-matter
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17773/default_2f87d5add351cc79d3471e48bc0dd6f92c1288ad.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/blog-starter-typescript/package.json
+  detection_source: examples/blog-starter-typescript/package.json
+- name: gzip-size
+  description: Get the gzipped size of a string or buffer
+  package_url: https://www.npmjs.com/gzip-size
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16649/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: ".github/actions/next-stats-action/package.json"
+- name: http-proxy
+  description: HTTP proxying for the masses
+  package_url: https://www.npmjs.com/http-proxy
+  version: 1.18.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: http-proxy-middleware
+  description: The one-liner node.js proxy middleware for connect
+  package_url: https://www.npmjs.com/http-proxy-middleware
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16167/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-custom-reverse-proxy/package.json
+  detection_source: examples/with-custom-reverse-proxy/package.json
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 4.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-typescript-eslint-jest/package.json
+  detection_source: examples/with-typescript-eslint-jest/package.json
+- name: identity-obj-proxy
+  description: An identity object using ES6 proxies
+  package_url: https://www.npmjs.com/identity-obj-proxy
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16206/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-jest/package.json
+  detection_source: examples/with-jest/package.json
+- name: image-size
+  description: Get dimensions of any image file
+  package_url: https://www.npmjs.com/image-size
+  version: 0.9.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16919/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: immer
+  description: Create your next immutable state by mutating the current one
+  package_url: https://www.npmjs.com/immer
+  version: 3.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16937/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-aws-amplify/package.json
+  detection_source: examples/with-aws-amplify/package.json
+- name: inquirer
+  description: A collection of common interactive command line user interfaces
+  package_url: https://www.npmjs.com/inquirer
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15911/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next-codemod/package.json
+- name: ioredis
+  description: A robust
+  package_url: https://www.npmjs.com/ioredis
+  version: 4.27.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16522/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/blog-with-comment/package.json
+  detection_source: examples/blog-with-comment/package.json
+- name: is-wsl
+  description: Check if the process is running inside Windows Subsystem for Linux
+  package_url: https://www.npmjs.com/is-wsl
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17097/default_faf55ef1f2892d4dcce54ed77892756797ff34e1.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: jest-watch-typeahead
+  description: Jest plugin for filtering by filename or test name
+  package_url: https://www.npmjs.com/jest-watch-typeahead
+  version: 0.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16646/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-typescript-eslint-jest/package.json
+  detection_source: examples/with-typescript-eslint-jest/package.json
+- name: jscodeshift
+  description: A toolkit for JavaScript codemods
+  package_url: https://www.npmjs.com/jscodeshift
+  version: 0.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17820/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next-codemod/package.json
+- name: jss
+  description: A lib for generating Style Sheets with JavaScript
+  package_url: https://www.npmjs.com/jss
+  version: 9.8.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17509/default_3551598c41205d6bdb9267e84e481dd5afeedb46.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-multi-carousel/package.json
+  detection_source: examples/with-react-multi-carousel/package.json
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 10.1.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-typescript-eslint-jest/package.json
+- name: localforage
+  description: Offline storage, improved
+  package_url: https://www.npmjs.com/localforage
+  version: 1.7.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17229/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-firebase-cloud-messaging/package.json
+  detection_source: examples/with-firebase-cloud-messaging/package.json
+- name: lru-cache
+  description: A cache object that deletes the least-recently-used items
+  package_url: https://www.npmjs.com/lru-cache
+  version: 5.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16386/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/api-routes-rate-limit/package.json
+- name: meow
+  description: CLI app helper
+  package_url: https://www.npmjs.com/meow
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16181/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next-codemod/package.json
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: mobx-react
+  description: React bindings for MobX. Create fully reactive components
+  package_url: https://www.npmjs.com/mobx-react
+  version: 5.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16661/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-mobx-state-tree-typescript/package.json
+  detection_source: examples/with-mobx-state-tree-typescript/package.json
+- name: neo4j-driver
+  description: The official Neo4j driver for Javascript
+  package_url: https://www.npmjs.com/neo4j-driver
+  version: 4.2.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-apollo-neo4j-graphql/package.json
+  detection_source: examples/with-apollo-neo4j-graphql/package.json
+- name: node-libs-browser
+  description: The node core libs for in browser usage
+  package_url: https://www.npmjs.com/node-libs-browser
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16576/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: nprogress
+  description: Simple slim progress bars
+  package_url: https://www.npmjs.com/nprogress
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17061/default_23002b02644a8cb313a0f53f43df271731022a9e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-loading/package.json
+- name: object-assign
+  description: ES2015 `Object.assign
+  package_url: https://www.npmjs.com/object-assign
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16015/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next-polyfill-nomodule/package.json
+- name: p-limit
+  description: Run multiple promise-returning &amp; async functions with limited concurrency
+  package_url: https://www.npmjs.com/p-limit
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18388/default_404701144cd8e1becf3aec789202840caee4d78e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/bundles/yarn.lock
+  detection_source: packages/next/package.json
+- name: passport-local
+  description: Local username and password authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-local
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16747/default_adce7cef6d131ffc31466624541462e4db9534d4.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-passport-and-next-connect/package.json
+  detection_source: examples/with-passport-and-next-connect/package.json
+- name: path-to-regexp
+  description: Express style path to RegExp utility
+  package_url: https://www.npmjs.com/path-to-regexp
+  version: 6.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16316/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  version: 8.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-knex/package.json
+  detection_source: examples/with-knex/package.json
+- name: platform
+  description: A platform detection library that works on nearly all JavaScript platforms
+  package_url: https://www.npmjs.com/platform
+  version: 1.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18335/default_cef8b737c55fccc3604e91ce246aef30fc604c73.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/react-dev-overlay/package.json
+- name: pnp-webpack-plugin
+  description: Plug'n'play resolver for Webpack
+  package_url: https://www.npmjs.com/pnp-webpack-plugin
+  version: 1.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17014/default_192373fe2b3ded7bb442c39dbf0f34ca3e5bed5d.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: postcss-flexbugs-fixes
+  description: PostCSS plugin This project tries to fix all of flexbug's issues
+  package_url: https://www.npmjs.com/postcss-flexbugs-fixes
+  version: 5.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16265/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-mysql/package.json
+- name: postcss-loader
+  description: PostCSS loader for webpack
+  package_url: https://www.npmjs.com/postcss-loader
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: postcss-nested
+  description: PostCSS plugin to unwrap nested rules like how Sass does it
+  package_url: https://www.npmjs.com/postcss-nested
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16575/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-styled-jsx-plugins/package.json
+- name: postcss-preset-env
+  description: Convert modern CSS into something browsers understand
+  package_url: https://www.npmjs.com/postcss-preset-env
+  version: 6.7.0
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16373/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-ant-design/package.json
+- name: postcss-scss
+  description: SCSS parser for PostCSS
+  package_url: https://www.npmjs.com/postcss-scss
+  version: 3.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16233/default_dc80ff0a17bac19253430a4f0f586714841116db.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: pretty-bytes
+  description: 'Convert bytes to a human readable string: 1337 → 1.34 kB'
+  package_url: https://www.npmjs.com/pretty-bytes
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16763/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: ".github/actions/next-stats-action/package.json"
+- name: pretty-ms
+  description: 'Convert milliseconds to a human readable string: `1337000000` → `15d
+    11h 23m 20s`'
+  package_url: https://www.npmjs.com/pretty-ms
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17620/default_2b5fe3dc5bfc4e83a84162459ff612ac6febd61a.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: ".github/actions/next-stats-action/package.json"
+- name: process
+  description: Process information for node.js and browsers
+  package_url: https://www.npmjs.com/process
+  version: 0.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: prompts
+  description: Lightweight, beautiful and user-friendly prompts
+  package_url: https://www.npmjs.com/prompts
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17250/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/create-next-app/package.json
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/api-routes-apollo-server-and-client-auth/package.json
+- name: raw-body
+  description: Get and validate the raw body of a readable stream
+  package_url: https://www.npmjs.com/raw-body
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17336/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: react-addons-css-transition-group
+  description: The code in this package has moved
+  package_url: https://www.npmjs.com/react-addons-css-transition-group
+  version: 15.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16654/default_bfa6d5d12cc0af739d6b3d4c69dddc66832b1d34.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-toolbox/package.json
+  detection_source: examples/with-react-toolbox/package.json
+- name: react-bootstrap
+  description: Bootstrap 3 components built with React
+  package_url: https://www.npmjs.com/react-bootstrap
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16383/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-bootstrap/package.json
+  detection_source: examples/with-react-bootstrap/package.json
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/active-class-name/package.json
+- name: react-ga
+  description: React Google Analytics Module
+  package_url: https://www.npmjs.com/react-ga
+  version: 2.5.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18260/default_e883f2ab27e3b57d1e2e1d1474b09e7351e11b54.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-ga/package.json
+  detection_source: examples/with-react-ga/package.json
+- name: react-helmet
+  description: A document head manager for React
+  package_url: https://www.npmjs.com/react-helmet
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16513/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-helmet/package.json
+  detection_source: examples/with-react-helmet/package.json
+- name: react-intl
+  description: Internationalize React apps
+  package_url: https://www.npmjs.com/react-intl
+  version: 5.6.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16566/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-intl/package.json
+  detection_source: examples/with-react-intl/package.json
+- name: react-is
+  description: Brand checking of React Elements
+  package_url: https://www.npmjs.com/react-is
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17829/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-storybook-styled-jsx-scss/package.json
+- name: react-jss
+  description: JSS integration with React
+  package_url: https://www.npmjs.com/react-jss
+  version: 10.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17302/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-react-jss/package.json
+  detection_source: examples/with-react-jss/package.json
+- name: react-modal
+  description: Accessible modal dialog component for React.JS
+  package_url: https://www.npmjs.com/react-modal
+  version: 3.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16926/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-route-as-modal/package.json
+  detection_source: examples/with-route-as-modal/package.json
+- name: react-native
+  description: A framework for building native apps using React
+  package_url: https://www.npmjs.com/react-native
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-expo-typescript/package.json
+  detection_source: examples/with-expo-typescript/package.json
+- name: react-native-web
+  description: React Native for Web
+  package_url: https://www.npmjs.com/react-native-web
+  version: 0.11.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17683/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-expo-typescript/package.json
+  detection_source: examples/with-expo-typescript/package.json
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-apollo-and-redux/package.json
+  detection_source: examples/with-apollo-and-redux/package.json
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-jest/package.json
+  detection_source: examples/with-jest/package.json
+- name: react-transition-group
+  description: A react component toolset for managing animations
+  package_url: https://www.npmjs.com/react-transition-group
+  version: 4.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16380/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-gsap/package.json
+  detection_source: examples/with-gsap/package.json
+- name: reason-react
+  description: React bindings for Reason
+  package_url: https://www.npmjs.com/reason-react
+  version: 0.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18516/default_ba23e4635acf0040794272f2e34db84811dfb728.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-reason-relay/package.json
+  detection_source: examples/with-reason-relay/package.json
+- name: recast
+  description: JavaScript syntax tree transformer
+  package_url: https://www.npmjs.com/recast
+  version: 0.18.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17195/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: redux-devtools-extension
+  description: Wrappers for Redux DevTools Extension
+  package_url: https://www.npmjs.com/redux-devtools-extension
+  version: 2.13.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17039/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-apollo-and-redux/package.json
+  detection_source: examples/with-apollo-and-redux/package.json
+- name: redux-logger
+  description: Logger for Redux
+  package_url: https://www.npmjs.com/redux-logger
+  version: 3.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16512/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-redux-observable/package.json
+  detection_source: examples/with-redux-observable/package.json
+- name: redux-observable
+  description: RxJS based middleware for Redux
+  package_url: https://www.npmjs.com/redux-observable
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18120/image.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-redux-observable/package.json
+  detection_source: examples/with-redux-observable/package.json
+- name: remark
+  description: Markdown processor powered by plugins
+  package_url: https://www.npmjs.com/remark
+  version: 13.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16952/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/blog-starter-typescript/package.json
+  detection_source: examples/blog-starter-typescript/package.json
+- name: resolve-url-loader
+  description: Webpack loader that resolves relative paths in url
+  package_url: https://www.npmjs.com/resolve-url-loader
+  version: 3.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16468/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/with-electron-typescript/package.json
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 10.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: schema-utils
+  description: Webpack Validation Utils
+  package_url: https://www.npmjs.com/schema-utils
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17595/default_e1c4f2497325ac0d57aca0c3473ca18d24eb8a13.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/bundles/yarn.lock
+  detection_source: packages/next/package.json
+- name: seedrandom
+  description: Seeded random number generator for Javascript
+  package_url: https://www.npmjs.com/seedrandom
+  version: 3.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17815/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: selenium-standalone
+  description: Installs a `selenium-standalone` command line to install and start
+    a standalone selenium server
+  package_url: https://www.npmjs.com/selenium-standalone
+  version: 6.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17924/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: selenium-webdriver
+  description: The official WebDriver JavaScript bindings from the Selenium project
+  package_url: https://www.npmjs.com/selenium-webdriver
+  version: 4.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16708/default_848dc5bc612658cea8d631cff0259d9588c28fea.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: semantic-ui-css
+  description: CSS Only distribution of Semantic UI
+  package_url: https://www.npmjs.com/semantic-ui-css
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18728/default_99bca233a712b099f2419ea1a75e96fcbf57f2af.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-semantic-ui/package.json
+  detection_source: examples/with-semantic-ui/package.json
+- name: semantic-ui-react
+  description: The official Semantic-UI-React integration
+  package_url: https://www.npmjs.com/semantic-ui-react
+  version: 0.84.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17202/default_077b6c5a1d83537f4c2e69cb474f20509daa99ac.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-semantic-ui/package.json
+  detection_source: examples/with-semantic-ui/package.json
+- name: send
+  description: Better streaming static file server with Range and conditional-GET
+    support
+  package_url: https://www.npmjs.com/send
+  version: 0.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17093/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: serve
+  description: Static file serving and directory listing
+  package_url: https://www.npmjs.com/serve
+  version: 11.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16484/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/analyze-bundles/package.json
+  detection_source: examples/analyze-bundles/package.json
+- name: slate-react
+  description: Tools for building completely customizable richtext editors with React
+  package_url: https://www.npmjs.com/slate-react
+  version: 0.58.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18566/default_27683a26a828c4de36f39c196ee155306eb1eaee.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-slate/package.json
+  detection_source: examples/with-slate/package.json
+- name: source-map
+  description: Generates and consumes source maps
+  package_url: https://www.npmjs.com/source-map
+  version: 0.6.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16339/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/bundles/yarn.lock
+  detection_source: packages/next/package.json
+- name: stream-to-promise
+  description: Convert streams
+  package_url: https://www.npmjs.com/stream-to-promise
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18772/default_0463109c3299785d8c9eead13542e3834a3cc7cb.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-graphql-faunadb/package.json
+  detection_source: examples/with-graphql-faunadb/package.json
+- name: strip-ansi
+  description: Strip ANSI escape codes from a string
+  package_url: https://www.npmjs.com/strip-ansi
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16331/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 0.17.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-algolia-react-instantsearch/package.json
+  detection_source: examples/with-algolia-react-instantsearch/package.json
+- name: styled-jsx
+  description: Full CSS support for JSX without compromises
+  package_url: https://www.npmjs.com/styled-jsx
+  version: 3.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17785/default_ade6298147a2f4c78d7d49e1ea77c0d3a3bbd44f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 1.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/blog-starter-typescript/package.json
+- name: text-table
+  description: Borderless text tables with alignment
+  package_url: https://www.npmjs.com/text-table
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17277/default_03da3f7f53e439ab3b23ec47828b2f3229885efd.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: tree-kill
+  description: Kill trees of processes
+  package_url: https://www.npmjs.com/tree-kill
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17621/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 26.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-redux-toolkit-typescript/package.json
+  detection_source: examples/with-redux-toolkit-typescript/package.json
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 8.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/custom-server-typescript/package.json
+  detection_source: examples/custom-server-typescript/package.json
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.11.1
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/auth0/package.json
+- name: url-loader
+  description: A loader for webpack which transforms files into base64 URIs
+  package_url: https://www.npmjs.com/url-loader
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/examples/with-semantic-ui/package.json
+  detection_source: examples/with-semantic-ui/package.json
+- name: util
+  description: Node.js's util module for all engines
+  package_url: https://www.npmjs.com/util
+  version: 0.10.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next/package.json
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 3.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: examples/api-routes-apollo-server-and-client-auth/package.json
+- name: validate-npm-package-name
+  description: Give me a string and I'll tell you if it's a valid npm package name
+  package_url: https://www.npmjs.com/validate-npm-package-name
+  version: 3.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16712/default_5ea3918e441555ef1fd413f4100fe15fe23b366f.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/create-next-app/package.json
+- name: webpack-bundle-analyzer
+  description: Webpack plugin and CLI utility that represents bundle content as convenient
+    interactive zoomable treemap
+  package_url: https://www.npmjs.com/webpack-bundle-analyzer
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
+- name: webpack-sources
+  description: Source code handling classes for webpack
+  package_url: https://www.npmjs.com/webpack-sources
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16921/default_24095c83b7b4f8d3f786358b9f13027acb571deb.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/packages/next/bundles/yarn.lock
+  detection_source: packages/next/package.json
+- name: whatwg-fetch
+  description: A window.fetch polyfill
+  package_url: https://www.npmjs.com/whatwg-fetch
+  version: 2.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16094/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: packages/next-polyfill-nomodule/package.json
+- name: worker-loader
+  description: Worker loader module for webpack
+  package_url: https://www.npmjs.com/worker-loader
+  version: 3.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17526/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/nikhilknick/next.js/blob/canary/yarn.lock
+  detection_source: package.json
